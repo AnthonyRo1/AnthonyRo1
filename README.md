@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnthonyRo1
 - 👀 I’m interested in software development!
-- 🌱 I’m currently learning software engineering/development through App Academy.
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me: Anthonyseo556@gmail.com, @AnthonyRo1 -> @Github
 
