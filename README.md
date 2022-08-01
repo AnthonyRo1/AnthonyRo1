@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyRo1
 - Full stack software developer
-JavaScript | Python | React | Flask | Sequelize | Redux | Node.js | Express.js | PostgreSQL | Flask-SQLAlchemy |
+- JavaScript | Python | React | Flask | Sequelize | Redux | Node.js | Express.js | PostgreSQL | Flask-SQLAlchemy 
 - 📫 How to reach me: Anthonyseo556@gmail.com, @AnthonyRo1 -> @Github
 
 <!---
